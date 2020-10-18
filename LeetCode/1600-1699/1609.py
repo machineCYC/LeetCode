@@ -33,9 +33,6 @@ class Solution:
 
 
 if __name__ == "__main__":
-    import sys, os
-    project_folder = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    sys.path.append(project_folder)
     from LeetCode.tools.tree import tree2string, string2tree
 
     obj = Solution()
