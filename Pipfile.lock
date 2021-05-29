@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5069289b394e24e8fde2df837341ca4313b8813d5c8adb4123cdf8bda251b45d"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "leetcode": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
